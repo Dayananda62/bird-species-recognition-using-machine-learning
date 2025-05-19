@@ -42,5 +42,4 @@ TensorFlow/Keras	- CNN model building and training
 
 Scikit-learn	- Evaluation and comparison
 
-Google Colab	- Cloud-based model development
 
